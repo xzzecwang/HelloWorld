@@ -1,2 +1,1 @@
-# HelloWorld
-Hello World For Study GitHub
+#Stufying Github Firstly...
